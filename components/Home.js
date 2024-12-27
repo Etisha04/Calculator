@@ -124,9 +124,7 @@ const Home = () => {
             =
           </Button>
         </View>
-      </View>
-      <Text style={styles.footer} >Calc by Etisha</Text>
-    </View>
+      
   );
 };
 
