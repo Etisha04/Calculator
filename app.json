@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d3283ce8-49f3-4ceb-875e-1ecc3389819a"
+      }
+    },
+    "android": {
+      "package": "com.etisha5050.calculator"
+    }
+  }
+}
